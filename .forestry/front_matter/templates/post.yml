@@ -39,4 +39,4 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/2019/hello-world.md
+- _posts/2019/2019-11-12-hello-world.md

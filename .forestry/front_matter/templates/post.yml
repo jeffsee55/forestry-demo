@@ -39,4 +39,5 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2019/DoubleNested/2019-11-12-hello-again.md
 - _posts/2019/2019-11-12-hello-world.md
